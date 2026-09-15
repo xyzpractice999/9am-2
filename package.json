@@ -1,0 +1,23 @@
+{
+  "name": "9am-2",
+  "version": "1.0.0",
+  "description": "9am-2",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzpractice999/9am-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xyzpractice999/9am-2/issues"
+  },
+  "homepage": "https://github.com/xyzpractice999/9am-2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1"
+  }
+}
